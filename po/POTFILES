@@ -1,0 +1,5 @@
+data/org.gnome.Valacounter.desktop.in
+data/org.gnome.Valacounter.appdata.xml.in
+data/org.gnome.Valacounter.gschema.xml
+src/window.uisrc/main.vala
+src/window.vala
